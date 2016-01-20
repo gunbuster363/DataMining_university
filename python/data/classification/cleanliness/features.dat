@@ -1,0 +1,36 @@
+(dp0
+S'dirty'
+p1
+c__builtin__
+set
+p2
+((lp3
+S'poor'
+p4
+aS'dirty'
+p5
+aS'terrible'
+p6
+atp7
+Rp8
+sS'clean'
+p9
+g2
+((lp10
+S'executive room'
+p11
+aS'outstanding'
+p12
+aS'executive floor'
+p13
+aS'executive lounge'
+p14
+aS'stunning'
+p15
+aS'fabulous'
+p16
+aS'incredible'
+p17
+atp18
+Rp19
+s.

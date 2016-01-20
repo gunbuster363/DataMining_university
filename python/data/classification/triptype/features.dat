@@ -1,0 +1,44 @@
+(dp0
+S'Family '
+p1
+c__builtin__
+set
+p2
+((lp3
+S'child'
+p4
+aS'daughter'
+p5
+aS'adult'
+p6
+aS'disney'
+p7
+aS'kid'
+p8
+atp9
+Rp10
+sS'Business '
+p11
+g2
+((lp12
+tp13
+Rp14
+sS'Friends getaway '
+p15
+g2
+((lp16
+tp17
+Rp18
+sS'Solo travel '
+p19
+g2
+((lp20
+tp21
+Rp22
+sS'Couples '
+p23
+g2
+((lp24
+tp25
+Rp26
+s.
